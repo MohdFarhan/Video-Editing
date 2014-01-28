@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>River Falls, Wisconsin</key>
+	<array>
+		<array>
+			<string>Bullet Cab</string>
+			<string>(608) 519 3200</string>
+			<string>2641 15th St. S, La Crosse, WI</string>
+		</array>
+		<array>
+			<string>La Crosse Cab Company</string>
+			<string>(608) 782-6100</string>
+			<string>1708 Avon St, La Crosse, WI</string>
+		</array>
+		<array>
+			<string>A-1 Taxi Svc Incorporated</string>
+			<string>(608) 781-6655</string>
+			<string>206 Hood St, La Crosse, WI</string>
+		</array>
+		<array>
+			<string>Cts Taxi</string>
+			<string>(608) 784-7700</string>
+			<string>226 Hood St, La Crosse, WI</string>
+		</array>
+		<array>
+			<string>Safe Ride Bus</string>
+			<string>Thursday-Saturday 9:00 PM to 3:00 AM- every 15 minutes Look for the maroon and silver sign!
+9:00 PM to 3:00 AM- every 15 minutes</string>
+		</array>
+	</array>
+	<key>Eau Claire, Wisconsin</key>
+	<array>
+		<array>
+			<string>Door 2 Door Taxi Service</string>
+			<string>(715) 225-1754</string>
+			<string>1313 E Anita Dr, Eau Claire WI</string>
+		</array>
+		<array>
+			<string>Town &amp; Country Taxi</string>
+			<string>(715) 563-7272</string>
+			<string>1643 Harding Ave, #B Eau Claire, WI</string>
+		</array>
+		<array>
+			<string>Cmt Taxi</string>
+			<string>(715) 514-4900</string>
+			<string>3645 London Rd, Eau Claire, WI</string>
+		</array>
+		<array>
+			<string>Eau Claire Blue Bus (aka The drunk Bus)</string>
+			<string>715 210 6791</string>
+			<string>128 N Clairemont, Eau Claire, WI</string>
+		</array>
+		<array>
+			<string>Transit schedule Bus Route 9 University</string>
+			<string>http://www.uwec.edu/Parking/services/upload/After-Spring-Break-2013.pdf</string>
+		</array>
+	</array>
+	<key>Menomonie, Wisconsin</key>
+	<array>
+		<array>
+			<string>231 Taxi</string>
+			<string>(715) 309-9619</string>
+			<string>2233 S Broadway St, Menomonie, WI</string>
+		</array>
+		<array>
+			<string>Town &amp; Country Taxi</string>
+			<string>(715) 309-9619</string>
+			<string>505 S Broadway St, Menomonie, WI</string>
+		</array>
+	</array>
+	<key>Milwaukee, Wisconsin</key>
+	<array>
+		<array>
+			<string>Milwaukee County Transit System</string>
+			<string>http://www.ridemcts.com</string>
+		</array>
+		<array>
+			<string>UW-M Parking and Transit Office:</string>
+			<string>414 229 4000</string>
+		</array>
+		<array>
+			<string>UWM B.O.S.S</string>
+			<string>414 229 6503</string>
+			<string>Free Safe transportation for UW students</string>
+		</array>
+		<array>
+			<string>Veteran Taxi Cab Cooperative</string>
+			<string>414 220 5000</string>
+		</array>
+		<array>
+			<string>Yellow Cab Co-op</string>
+			<string>414 271 1800</string>
+		</array>
+	</array>
+</dict>
+</plist>

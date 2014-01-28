@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Milwaukee, Wisconsin</key>
+	<array>
+		<array>
+			<string>UW-M Police SAFE Program</string>
+			<string>For safe walking escort</string>
+			<string>414-229-4627</string>
+		</array>
+		<array>
+			<string>Norris Health Center</string>
+			<string>3351 North Downer Avenue Milwaukee, WI</string>
+			<string>(414) 229-4716</string>
+		</array>
+		<array>
+			<string>Columbia St Mary’s Hospital</string>
+			<string>2025 East Newport Avenue Milwaukee, WI</string>
+			<string>(414) 961-3526</string>
+		</array>
+		<array>
+			<string>University of Wisconsin Milwaukee Police Department</string>
+			<string>3410 North Maryland Avenue Milwaukee, WI</string>
+			<string>(414) 229-4627</string>
+		</array>
+		<array>
+			<string>Shorewood Police Department</string>
+			<string>3936 North Murray Avenue Shorewood, WI</string>
+			<string>414 847 2610</string>
+		</array>
+	</array>
+	<key> Menomonie, Wisconsin</key>
+	<array>
+		<array>
+			<string>Red Cedar Medical Center</string>
+			<string>2321 stout road Menomonie, WI</string>
+			<string>715 235 5531</string>
+		</array>
+		<array>
+			<string>Menomonie Police Station</string>
+			<string>817 Broadway street south Menomonie, WI</string>
+			<string>715 232 2222</string>
+		</array>
+	</array>
+	<key>River Falls, Wisconsin</key>
+	<array>
+		<array>
+			<string>UW-La Crosse Police Department</string>
+			<string>525 East Avenue North  La Crosse, WI</string>
+			<string>608 789 9000</string>
+		</array>
+		<array>
+			<string>City of La Crosse Police</string>
+			<string>800 Main Street La Crosse, WI</string>
+			<string>608 785 5962</string>
+		</array>
+		<array>
+			<string>Mayo Clinic Health System</string>
+			<string>800 West Avenue South La Crosse, WI</string>
+			<string>608 392 9855</string>
+		</array>
+		<array>
+			<string>St Francis Medical Center</string>
+			<string>700 West Avenue South La Crosse, WI</string>
+			<string>608 791 9768</string>
+		</array>
+	</array>
+	<key> Eau Claire, Wisconsin</key>
+	<array>
+		<array>
+			<string>Sacred Heart Hospital</string>
+			<string>900 West Clairemont Avenue Eau Claire, WI</string>
+			<string>715 717 4121</string>
+		</array>
+		<array>
+			<string>Mayo Clinic Health System</string>
+			<string>733 West Clairemont Avenue Eau Claire, WI</string>
+			<string>715 838 5222</string>
+		</array>
+		<array>
+			<string>Eau Claire Police Department</string>
+			<string>740 2nd Avenue Eau Claire, WI</string>
+			<string>(715) 839 4972</string>
+		</array>
+		<array>
+			<string>Sheriff’s Department- Huber Center</string>
+			<string>728 2nd Avenue Eau Claire, WI</string>
+			<string>715 839 6223</string>
+		</array>
+	</array>
+</dict>
+</plist>
